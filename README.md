@@ -18,7 +18,7 @@ More general problem: **How to use private python packages in docker images?**
 structure of package:
 ├── __init__.py
 ├── setup.py # or setup.cfg or pyproject.toml
-├── my-package
+├── my_package
 │      └── ...
 
 `````
