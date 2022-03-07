@@ -6,7 +6,7 @@
 Sadly no satisfying solution found, so far 😥
 
 ---
-## Option 2 - Using Prebuilt Containers
+## Option 2 - Using Custom Containers
 
 No special treatment for Vertex AI -> 
 More general problem: **How to use private python packages in docker images?**
@@ -127,7 +127,7 @@ docker push <DOCKER-REGISTRY-URL>/test:latest
 ## Using GitHub:
 SSH access via **project-specific** deploy token
 
-![infra](./infra_1.PNG)
+![infra](./infra_2.PNG)
 
 `````text
 Structure:
